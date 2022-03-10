@@ -1,1 +1,9 @@
 print('welcome to python programming language')
+
+//following program find even number is even or odd 
+
+num=int (input ("Enter any number to test whether if it is even or not))
+
+if (num % 2)==0:
+
+		print ("the number is even")
